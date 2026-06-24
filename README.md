@@ -2,7 +2,8 @@
 > **Where Modern Mobile Engineering meets the Sacred Sciences of the Quran.**
 
 <div align="center">
-
+   
+[![Google Play](https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![UI/UX](https://img.shields.io/badge/Design-Glassmorphism-blueviolet?style=for-the-badge)
@@ -49,7 +50,8 @@ The app features a robust "Journey" logic to boost user retention:
 **Youssef Alkamashany**
 * 🚀 **Aspiring MLOps/LLMOps & AI Data Engineer**.
 * 💼 Team Leader — Microsoft Data Engineering | Digital Egypt Pioneers Initiative (DEPI).
-  
+* 
+[![Google Play](https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alkamashany-18261132b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Alkamashany)
 
