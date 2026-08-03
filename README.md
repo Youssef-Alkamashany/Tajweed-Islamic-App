@@ -13,7 +13,7 @@
 
 ---
 
-### 🌟 Project Vision
+## 🌟 Project Vision
 **Heithamiyat** is a high-end Android application developed to provide an immersive educational experience for Tajweed rules. Built using **Kotlin** for the native wrapper and core logic, the app features a sophisticated frontend that utilizes **Glassmorphism** design principles to create a calm, spiritual, and professional atmosphere for learners.
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Core Pillars & Features
+## 🚀 Core Pillars & Features
 
 * **📱 Native Kotlin Integration:** High-performance Android implementation ensuring smooth navigation and hardware acceleration.
 * **📚 Specialized Tajweed Modules:** Comprehensive, Al-Azhar-sourced guides on Izhar, Idgham, Iqlab, and Ikhfa.
@@ -43,14 +43,14 @@
 
 ---
 
-### 🏆 Gamification System
+## 🏆 Gamification System
 The app features a robust "Journey" logic to boost user retention:
 * **Point Accumulation:** Earn points for every rule studied and quiz passed.
 * **Achievement Hub:** 8 unlockable badges (e.g., "Tajweed King", "Night Star") to track spiritual and educational growth.
 
 ---
 
-### 🛠️ Tech Stack & Architecture
+## 🛠️ Tech Stack & Architecture
 
 * **Backend Logic:** Kotlin (Android Studio).
 * **Frontend:** JavaScript (ES6+), CSS3 (Advanced Gradients & Backdrop Filters).
@@ -59,7 +59,7 @@ The app features a robust "Journey" logic to boost user retention:
 
 ---
 
-### 👤 Author
+## 👤 Author
 **Youssef Alkamashany**
 * 🚀 **Aspiring MLOps/LLMOps & AI Data Engineer**.
 * 💼 Team Leader — Microsoft Data Engineering | Digital Egypt Pioneers Initiative (DEPI).
