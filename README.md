@@ -19,11 +19,11 @@
 ### 📱 Available on Google Play
 
 <p align="center">
-  <img src="./assets/Tajweed-App_2.jpeg" width="85%" alt="Tajweed App Google Play" />
+  <img src="Tajweed-App_3.jpeg" width="85%" alt="Heithamiyat Al-Tajweed Store Preview" />
 </p>
 
 <p align="center">
-  👉 <b><a href="https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed" target="_blank">اضغط هنا للتحميل من Google Play (Get it on Google Play)</a></b>
+  👉 <b><a href="https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed" target="_blank">Get it on Google Play</a></b>
 </p>
 
 ---
