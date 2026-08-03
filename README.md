@@ -17,10 +17,13 @@
 **Heithamiyat** is a high-end Android application developed to provide an immersive educational experience for Tajweed rules. Built using **Kotlin** for the native wrapper and core logic, the app features a sophisticated frontend that utilizes **Glassmorphism** design principles to create a calm, spiritual, and professional atmosphere for learners.
 
 ### 📱 Available on Google Play
+
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed" target="_blank">
-    <img src="Tajweed-App_2.jpeg" width="85%" alt="Heithamiyat Al-Tajweed Google Play Store Listing" />
-  </a>
+  <img src="./assets/Tajweed-App_2.jpeg" width="85%" alt="Tajweed App Google Play" />
+</p>
+
+<p align="center">
+  👉 <b><a href="https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed" target="_blank">اضغط هنا للتحميل من Google Play (Get it on Google Play)</a></b>
 </p>
 
 ---
