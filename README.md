@@ -19,7 +19,7 @@
 ### 📱 Available on Google Play
 
 <p align="center">
-  <img src="./assets/Tajweed-App_3.jpeg" width="85%" alt="Tajweed App Google Play" />
+  <img src="https://raw.githubusercontent.com/Youssef-Alkamashany/Tajweed-Islamic-App/main/Tajweed-App.jpeg" width="85%" alt="Tajweed App Google Play" />
 </p>
 
 <p align="center">
