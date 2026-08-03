@@ -16,11 +16,11 @@
 ### 🌟 Project Vision
 **Heithamiyat** is a high-end Android application developed to provide an immersive educational experience for Tajweed rules. Built using **Kotlin** for the native wrapper and core logic, the app features a sophisticated frontend that utilizes **Glassmorphism** design principles to create a calm, spiritual, and professional atmosphere for learners.
 
-### 📱 App Screenshots
+### 📱 Live on Google Play
 <p align="center">
-  <img src="assets/screen1.png" width="28%" />
-  <img src="assets/screen2.png" width="28%" />
-  <img src="assets/screen3.png" width="28%" />
+  <a href="https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed" target="_blank">
+    <img src="assets/Tajweed-App.jpeg" width="85%" alt="Heithamiyat Al-Tajweed Google Play Store Listing" />
+  </a>
 </p>
 
 ---
@@ -33,7 +33,7 @@
   * Dynamic batching of **80+ categorized questions**.
   * Real-time 30-second timers with automated state management.
   * Interactive voice feedback using **Speech Synthesis API**.
-* 🎵 Integrated **Web Audio API** for real-time success/failure soundscapes (excellent.wav / try_again.wav).
+* 🎵 Integrated **Web Audio API** for real-time success/failure soundscapes (`excellent.wav` / `try_again.wav`).
 * **🌌 Celestial UI Engine:** A dedicated **HTML5 Canvas** system rendering 150+ dynamic twinkling stars and floating orbital elements.
 
 ---
