@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  👉 <b><a href="https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed" target="_blank">Get it on Google Play</a></b>
+  👉 <b><a href="https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed" target="_blank">Download Now on Google Play</a></b>
 </p>
 
 ---
