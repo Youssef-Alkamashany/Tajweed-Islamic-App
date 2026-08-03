@@ -19,7 +19,7 @@
 ### 📱 Available on Google Play
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed" target="_blank">
-    <img src="assets/Tajweed-App_2.jpeg" width="85%" alt="Heithamiyat Al-Tajweed Google Play Store Listing" />
+    <img src="Tajweed-App_2.jpeg" width="85%" alt="Heithamiyat Al-Tajweed Google Play Store Listing" />
   </a>
 </p>
 
