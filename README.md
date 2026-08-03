@@ -19,7 +19,7 @@
 ### 📱 Available on Google Play
 
 <p align="center">
-  <img src="assets/Tajweed-App_3.jpeg" width="85%" alt="Tajweed App Google Play" />
+  <img src="./assets/Tajweed-App_3.jpeg" width="85%" alt="Tajweed App Google Play" />
 </p>
 
 <p align="center">
