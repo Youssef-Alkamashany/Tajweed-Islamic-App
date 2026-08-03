@@ -16,6 +16,8 @@
 ### 🌟 Project Vision
 **Heithamiyat** is a high-end Android application developed to provide an immersive educational experience for Tajweed rules. Built using **Kotlin** for the native wrapper and core logic, the app features a sophisticated frontend that utilizes **Glassmorphism** design principles to create a calm, spiritual, and professional atmosphere for learners.
 
+---
+
 ## 📱 Available on Google Play
 
 <p align="center">
