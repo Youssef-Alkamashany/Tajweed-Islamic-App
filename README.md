@@ -2,7 +2,7 @@
 > **Where Modern Mobile Engineering meets the Sacred Sciences of the Quran.**
 
 <div align="center">
-   
+
 [![Google Play](https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,15 +16,23 @@
 ### 🌟 Project Vision
 **Heithamiyat** is a high-end Android application developed to provide an immersive educational experience for Tajweed rules. Built using **Kotlin** for the native wrapper and core logic, the app features a sophisticated frontend that utilizes **Glassmorphism** design principles to create a calm, spiritual, and professional atmosphere for learners.
 
+### 📱 App Screenshots
+<p align="center">
+  <img src="assets/screen1.png" width="28%" />
+  <img src="assets/screen2.png" width="28%" />
+  <img src="assets/screen3.png" width="28%" />
+</p>
+
 ---
 
 ### 🚀 Core Pillars & Features
 
 * **📱 Native Kotlin Integration:** High-performance Android implementation ensuring smooth navigation and hardware acceleration.
 * **📚 Specialized Tajweed Modules:** Comprehensive, Al-Azhar-sourced guides on Izhar, Idgham, Iqlab, and Ikhfa.
-* **🎯 Advanced Quiz Engine:** * Dynamic batching of **80+ categorized questions**.
-    * Real-time 30-second timers with automated state management.
-    * Interactive voice feedback using **Speech Synthesis API**.
+* **🎯 Advanced Quiz Engine:** 
+  * Dynamic batching of **80+ categorized questions**.
+  * Real-time 30-second timers with automated state management.
+  * Interactive voice feedback using **Speech Synthesis API**.
 * 🎵 Integrated **Web Audio API** for real-time success/failure soundscapes (excellent.wav / try_again.wav).
 * **🌌 Celestial UI Engine:** A dedicated **HTML5 Canvas** system rendering 150+ dynamic twinkling stars and floating orbital elements.
 
@@ -50,7 +58,7 @@ The app features a robust "Journey" logic to boost user retention:
 **Youssef Alkamashany**
 * 🚀 **Aspiring MLOps/LLMOps & AI Data Engineer**.
 * 💼 Team Leader — Microsoft Data Engineering | Digital Egypt Pioneers Initiative (DEPI).
-  
+
 [![Google Play](https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-alkamashany-18261132b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Youssef-Alkamashany)
