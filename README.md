@@ -61,7 +61,7 @@ The app features a robust "Journey" logic to boost user retention:
 
 ## 👤 Author
 **Youssef Alkamashany**
-* 🚀 **Aspiring MLOps/LLMOps & AI Data Engineer**.
+* 🚀 **Advancing toward MLOps/LLMOps & AI Data Engineer**.
 * 💼 Team Leader — Microsoft Data Engineering | Digital Egypt Pioneers Initiative (DEPI).
 
 [![Google Play](https://img.shields.io/badge/Google_Play-000000?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.YoussefAlkamashany.haythamiyatal_tajweed)
