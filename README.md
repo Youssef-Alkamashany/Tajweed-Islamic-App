@@ -21,7 +21,7 @@
 ## 📱 Available on Google Play
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Youssef-Alkamashany/Tajweed-Islamic-App/main/Tajweed-App.jpeg" width="85%" alt="Tajweed App Google Play" />
+  <img src="[https://raw.githubusercontent.com/Youssef-Alkamashany/Tajweed-Islamic-App/main/Tajweed-App.jpeg](https://github.com/Youssef-Alkamashany/Tajweed-Islamic-App/blob/main/Tajweed-App.jpeg)" width="85%" alt="Tajweed App Google Play" />
 </p>
 
 <p align="center">
